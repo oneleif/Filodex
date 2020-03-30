@@ -32,6 +32,8 @@ Filodex is aiming to bridge this gap by building a centralized repository of kno
 
 ## Community
 
+![](https://github.com/oneleif/olDocs/blob/master/assets/images/oneleif_logos/full_logo/oneleif_whiteback.png)
+
 This project is a Oneleif active project. It is open-sourced and ran by members of oneleif, with development support from the community.
 
 [![](https://img.shields.io/badge/oneleif-Twitter-blue.svg)](https://twitter.com/oneleifdev)
