@@ -5,16 +5,15 @@ Starting and running a non-profit organization can be an intimidating process. I
 Filodex is aiming to bridge this gap by building a centralized repository of knowledge, tools, funding opportunities, and other resources for individuals in the non-profit sector. 
 
 ## Table of contents
-* [General info](#general-info)
 * [Inspiration](#inspiration)
 * [Status](#status)
 * [Goals](#goals)
 * [Technologies](#technologies)
 * [Features](#features)
 * [Contributing](#contributing)
-* [Team & Community](#team-&-community) 
-
-## General info
+* [Team](#team)
+* [Community](#community)
+* [Credits](#credits)
 
 ## Inspiration	
 
@@ -53,3 +52,5 @@ When you're done with the above, send a message on the #start channel to let the
 
 ### Questions?
 Email Address: oneleifdev@gmail.com 
+
+## Credits
