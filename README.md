@@ -7,10 +7,10 @@ Filodex is aiming to bridge this gap by building a centralized repository of kno
 ## Table of contents
 * [General info](#general-info)
 * [Inspiration](#inspiration)
+* [Status](#status)
 * [Goals](#goals)
 * [Technologies](#technologies)
 * [Features](#features)
-* [Status](#status)
 * [Contributing](#contributing)
 * [Team & Community](#team-&-community) 
 
@@ -18,13 +18,13 @@ Filodex is aiming to bridge this gap by building a centralized repository of kno
 
 ## Inspiration	
 
+## Status
+
 ## Goals
 	
 ## Technologies
 
 ## Features
-
-## Status
 
 ## Contributing
 
