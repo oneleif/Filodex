@@ -41,9 +41,7 @@ This project is a Oneleif active project. It is open-sourced and ran by members 
 ### Interested in joining Oneleif?
 Click on the link below to join the Discord server.
 
-You will start with limited permissions, in a text channel that only moderators will see.
-
-To get full access: read the rules, make an introduction in #introductions, and add an appropriate username.
+You will start with limited permissions, in a text channel that only moderators will see. To get full access: read the rules, make an introduction in #introductions, and add an appropriate username.
 
 When you're done with the above, send a message on the #start channel to let the Community Managers you've completed the task so they can give you full access.
 
