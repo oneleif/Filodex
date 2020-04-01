@@ -20,6 +20,18 @@ Filodex is aiming to bridge this gap by building a centralized repository of kno
 ## Status
 
 ## Goals
+
+### MVP (Version 1.0.0)
+* Landing View/Home
+* About Us w/ Contact Information
+* Resources/Credits Page
+* Information on Starting a Charity/Non Profit
+	
+### Version 2.0.0
+* Information on Maintaining a Charity/Non Profit
+* Information on Applying for Grants
+* Information on Software tools to utilize
+* Search Functionality
 	
 ## Technologies
 
