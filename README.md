@@ -7,7 +7,7 @@ Filodex is aiming to bridge this gap by building a centralized repository of kno
 ## Table of contents
 * [Inspiration](#inspiration)
 * [Status](#status)
-* [Goals](#goals)
+* [Goals & Roadmap](#goals-&-roadmap)
 * [Technologies](#technologies)
 * [Features](#features)
 * [Contributing](#contributing)
@@ -19,15 +19,16 @@ Filodex is aiming to bridge this gap by building a centralized repository of kno
 
 ## Status
 
-## Goals
+## Goals & Roadmap
 
-### MVP (Version 1.0.0)
+### Roadmap
+#### Version 1.0.0 - MVP
 * Landing View/Home
 * About Us w/ Contact Information
 * Resources/Credits Page
-* Information on Starting a Charity/Non Profit
+* Information on Starting a Charity/Non Profit (NA-specific)
 	
-### Version 2.0.0
+#### Version 2.0.0
 * Information on Maintaining a Charity/Non Profit
 * Information on Applying for Grants
 * Information on Software tools to utilize
